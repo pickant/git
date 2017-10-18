@@ -1,5 +1,6 @@
 name = input()
-print("hello world" %name)
+
+print("hello %s" %name)
 print ("goodbye")
 
 
