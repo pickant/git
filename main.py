@@ -1,4 +1,5 @@
 name = input()
-print("Hello World" %name)
-print ("Goodbye")
+print("hello world" %name)
+print ("goodbye")
+
 
